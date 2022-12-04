@@ -5,11 +5,13 @@ Made a Simple Transaction
 ABOUT POLYPAY
 
 Polypay is a payment system that enables users send Cryptocurrency to anybody in the world.
-The smart contract is deployed on Polygon zkEVM which is a “testnet" and not  “mainnet" .
+The smart contract is deployed on Polygon zkEVM which is a “testnet" and not  “mainnet" . 
 
-It uses the Vite framework,
-This is aimed at speeding up development with the HMR (Hot Module reload). It doesn't need to bundle all the scripts before returning the requested content.
+Polygon is a Layer 2 blockchain that aims to help Ethereum with its scalability. By acting as a Layer 2 protocol, Polygon doesn't aim to duplicate Ethereum's functionality. Instead, it helps improve transaction speeds and lower costs for developers.
 
-The front-end  enables the selection of multiple wallet option for the transaction, such as metamask, coinbase, trust wallet, rainbow or through a wallet-connect.
+Polypay uses the Vite framework,
+this is aimed at speeding up development with the HMR (Hot Module reload). It doesn't need to bundle all the scripts before returning the requested content.
 
-There is a section that has a description of your wallet address, similar to what we have in a debit.
+The front-end  makes provisions for multiple wallet options for the transaction such as metamask, coinbase, trust wallet, rainbow or through a wallet-connect.
+
+It features  a section that has a description of your wallet address, similar to that of  a debit card.
